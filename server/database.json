@@ -54,5 +54,13 @@
     "email": "emmaayo@gmail.com",
     "phone": "06087999823",
     "gender": "Female"
+  },
+  {
+    "firstName": "moses",
+    "lastName": "lee",
+    "otherNames": "deee",
+    "email": "moseslee@gmail.com",
+    "phone": "04034058736",
+    "gender": "Male"
   }
 ]
