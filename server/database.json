@@ -1,0 +1,58 @@
+[
+  {
+    "firstName": "abraham",
+    "lastName": "benson",
+    "otherNames": "Sunday",
+    "email": "abrahambenson@gmail.com",
+    "phone": "08032858672",
+    "gender": "Male"
+  },
+  {
+    "firstName": "Golden",
+    "lastName": "Abraham",
+    "otherNames": "Asinyetogha",
+    "email": "goldenabraham@gmail.com",
+    "phone": "09045289876",
+    "gender": "Female"
+  },
+  {
+    "firstName": "mercy",
+    "lastName": "abraham",
+    "otherNames": "ibifiri",
+    "email": "mercyabraham@gmail.com",
+    "phone": "08933876756",
+    "gender": "Female"
+  },
+  {
+    "firstName": "jerry",
+    "lastName": "madugu",
+    "otherNames": "audu",
+    "email": "jerryaudu@gmail.com",
+    "phone": "05068384848",
+    "gender": "Male"
+  },
+  {
+    "firstName": "ann",
+    "lastName": "joe",
+    "otherNames": "mson",
+    "email": "annjoe@gmail.com",
+    "phone": "07300987867",
+    "gender": "Female"
+  },
+  {
+    "firstName": "bayo",
+    "lastName": "bode",
+    "otherNames": "shola",
+    "email": "bayobode@gmail.com",
+    "phone": "07064525353",
+    "gender": "Female"
+  },
+  {
+    "firstName": "emma",
+    "lastName": "ayo",
+    "otherNames": "godon",
+    "email": "emmaayo@gmail.com",
+    "phone": "06087999823",
+    "gender": "Female"
+  }
+]

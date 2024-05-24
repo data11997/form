@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Registration Form</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h2>Registration Form</h2>
+  <form id="registrationForm" method="POST" action="http://localhost:3000/api/save-data">
+    <label for="firstName">First Name: </label>
+    <input type="text" id="firstName" name="firstName" required><br><br>
+
+    <label for="lastName">Last Name: </label>
+    <input type="text" id="lastName" name="lastName" required><br><br>
+
+    <label for="otherNames">Other Names: </label>
+    <input type="text" id="otherNames" name="otherNames"><br><br>
+
+    <label for="email">Email: </label>
+    <input type="email" id="email" name="email" required><br><br>
+
+    <label for="phone">Phone Number: </label>
+    <input type="text" id="phone" name="phone" required><br><br>
+
+    <label for="gender">Gender: </label>
+    <select id="gender" name="gender" required>
+      <option value="">Select Gender</option>
+      <option value="Male">Male</option>
+      <option value="Female">Female</option>
+      <option value="Other">Other</option>
+    </select><br><br>
+
+    <button type="submit">Submit</button>
+  </form>
+  <div id="errorMessages" class="error"></div>
+
+  <script src="form-validation.js"></script>
+</body>
+</html>
